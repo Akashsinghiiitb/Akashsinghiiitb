@@ -30,7 +30,7 @@ const akash = {
         ai_engineering: "AI SaaS applications and LLM integrations",
         problem_solving: "Strong focus on DSA and algorithmic thinking"
     },
-    education: "B.Tech CSE (3rd Year) @ IIIT Bhopal",
+    education: "B.Tech CSE (final Year) @ IIIT Bhopal",
     expertise: {
         software_engineering: [
             "💻 Full-Stack (React, Next.js, Node.js)",
